@@ -16,7 +16,7 @@ subtitle:
 I am a graduate teaching assistant in Linguistics at the University of Utah. Prior to that, I was an instructor at Syracuse University and taught Mandarin Chinese for two academic years. 
 
 Linguistics
-- LING 0000: Upcoming. Fall 2022 (Teaching Assistant)
+- LING 1200: Introduction to the Study of Language. Fall 2022 (Teaching Assistant)
 - LING 3600: Cross-Cultural Communication. Summer 2022 (Instructor)
 - BUS 3950: Cross-Cultural Communication for Business. Spring 2022 (Teaching Assistant)
 
