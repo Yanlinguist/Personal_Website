@@ -19,7 +19,6 @@ Linguistics
 - LING 1200: Introduction to the Study of Language. Fall 2022 (Teaching Assistant)
 - LING 3600: Cross-Cultural Communication. Summer 2022 (Instructor)
 - BUS 3950: Cross-Cultural Communication for Business. Spring 2022 (Teaching Assistant)
-
 - LING 3470: Language and Culture. Fall 2021 (Teaching Assistant)
 
 Mandarin Chinese
