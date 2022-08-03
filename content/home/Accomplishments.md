@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Accomplishments
+title: Achievements
 subtitle:
 ---
 - Research Mentoring Certificate Spring 2021: University of Utah.
