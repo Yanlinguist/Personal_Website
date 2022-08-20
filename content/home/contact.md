@@ -29,8 +29,7 @@ content:
     longitude: '-122.1697'
   directions: Enter Building and take the stairs to Office 2930 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 11:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday 13:30 to 15:30'
   appointment_url: 
 
 design:
